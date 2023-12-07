@@ -1,0 +1,9 @@
+[
+    {
+        "country": "United States",
+        "city": "New York",
+        "author": "John Doe",
+        "orginalUrl": "https://youtu.be/eR5vsN1Lq4E",
+        "localUrl": "http://localhost:3000/nytimes.com/2018/01/28/business/energy-environment/oil-boom.html"
+    }
+]
